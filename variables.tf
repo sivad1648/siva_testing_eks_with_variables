@@ -63,3 +63,4 @@ variable "node_groups" {
       }
     }
   ]   
+}
