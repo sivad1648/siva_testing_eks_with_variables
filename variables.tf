@@ -17,12 +17,12 @@ variable "cluster-name" {
 
 variable "subnet_id_1" {
   type = string
-  default = "subnet-0049f25db9fdfa27c"
+  default = "subnet-0e7235ff1b906b77a"
  }
  
 variable "subnet_id_2" {
   type = string
-  default = "subnet-047b032cd4dd787a1"
+  default = "subnet-0547516c42692bc4e"
  }
 
 #variable "instance" {
