@@ -61,4 +61,5 @@ variable "node_groups" {
       update_config = {
         max_unavailable = 1
       }
-    },
+    }
+  ]   
